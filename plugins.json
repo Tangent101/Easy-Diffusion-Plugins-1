@@ -695,4 +695,16 @@
         "minEDVersion": "2.0",
         "compatIssueIds": []
     }
+    {
+        "id": "civitai-link-button",
+        "icon": "fa-link",
+        "name": "CivitAI Link Button",
+        "author": "Pavel Vanecek",
+        "description": "Adds a CivitAI search button under the model selector in EasyDiffusion. Opens the correct CivitAI.red search URL for the selected model.",
+        "url": "https://raw.githubusercontent.com/pavelvanecekcz/EasyDiffusion-plugin-CivitAi/main/civitai-link.plugin.js",
+        "localInstallOnly": false,
+        "version": "1.0.0",
+        "minEDVersion": "3.5",
+        "compatIssueIds": []        
+    }
 ]

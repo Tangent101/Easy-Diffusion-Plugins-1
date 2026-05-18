@@ -694,7 +694,7 @@
         "version": "1.0",
         "minEDVersion": "2.0",
         "compatIssueIds": []
-    }
+    },
     {
         "id": "civitai-link-button",
         "icon": "fa-link",

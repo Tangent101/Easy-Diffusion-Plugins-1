@@ -704,7 +704,7 @@
         "url": "https://raw.githubusercontent.com/pavelvanecekcz/EasyDiffusion-plugin-CivitAi/main/civitai-link.plugin.js",
         "localInstallOnly": false,
         "version": "1.0.0",
-        "minEDVersion": "3.5",
+        "minEDVersion": "2.0",
         "compatIssueIds": []        
     }
 ]
